@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AloyWeb", "AloyWeb\AloyWeb.csproj", "{E137E70F-4299-4F2C-B494-9BB95DA84454}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AloyWebRzr", "AloyWebRzr\AloyWebRzr.csproj", "{A77D8537-6A91-45A9-A3B3-E3B819395AC4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aloy.DataAccess", "Aloy.DataAccess\Aloy.DataAccess.csproj", "{7171E40B-C9FE-499F-9398-B6DEC187C508}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aloy.Models", "Aloy.Models\Aloy.Models.csproj", "{F68DDE2B-DE09-41D3-A4EA-515C772B39D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aloy.Utility", "Aloy.Utility\Aloy.Utility.csproj", "{4B3776E0-379C-4055-8FDA-EDCDCE217A5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AloyMysql", "AloyMysql\AloyMysql.csproj", "{8926A285-AE06-4BD6-A872-E87CB86E0247}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E137E70F-4299-4F2C-B494-9BB95DA84454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E137E70F-4299-4F2C-B494-9BB95DA84454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E137E70F-4299-4F2C-B494-9BB95DA84454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E137E70F-4299-4F2C-B494-9BB95DA84454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A77D8537-6A91-45A9-A3B3-E3B819395AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A77D8537-6A91-45A9-A3B3-E3B819395AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A77D8537-6A91-45A9-A3B3-E3B819395AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A77D8537-6A91-45A9-A3B3-E3B819395AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7171E40B-C9FE-499F-9398-B6DEC187C508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7171E40B-C9FE-499F-9398-B6DEC187C508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7171E40B-C9FE-499F-9398-B6DEC187C508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7171E40B-C9FE-499F-9398-B6DEC187C508}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F68DDE2B-DE09-41D3-A4EA-515C772B39D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68DDE2B-DE09-41D3-A4EA-515C772B39D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68DDE2B-DE09-41D3-A4EA-515C772B39D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68DDE2B-DE09-41D3-A4EA-515C772B39D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B3776E0-379C-4055-8FDA-EDCDCE217A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B3776E0-379C-4055-8FDA-EDCDCE217A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B3776E0-379C-4055-8FDA-EDCDCE217A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B3776E0-379C-4055-8FDA-EDCDCE217A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8926A285-AE06-4BD6-A872-E87CB86E0247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8926A285-AE06-4BD6-A872-E87CB86E0247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8926A285-AE06-4BD6-A872-E87CB86E0247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8926A285-AE06-4BD6-A872-E87CB86E0247}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {700AAC8E-E255-4010-959E-61D773FF21AE}
+	EndGlobalSection
+EndGlobal
